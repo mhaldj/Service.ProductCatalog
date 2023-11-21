@@ -6,3 +6,6 @@ src/Service.ProductCatalog.Api/bin/
 src/Service.ProductCatalog/bin/
 src/Service.ProductCatalog/obj/
 .fake
+bin
+obj
+packages
