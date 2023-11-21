@@ -1,0 +1,8 @@
+.sonarqube/
+tests/Service.ProductCatalog.Tests/bin/
+tests/Service.ProductCatalog.Tests/obj/
+src/Service.ProductCatalog.Api/obj/
+src/Service.ProductCatalog.Api/bin/
+src/Service.ProductCatalog/bin/
+src/Service.ProductCatalog/obj/
+.fake
